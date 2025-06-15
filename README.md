@@ -1,5 +1,4 @@
-# Jginste8.github.io
-<!DOCTYPE html>
+# Eloheh
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -32,7 +31,7 @@
 
     <h1><u>Eloheh Healthcare Products</u></h1>
 
-    <p><span class="important">Welcome to Eloheh's Products Page!</span> We are proud to offer a wide variety of healthcare products designed to promote holistic wellness and preventive care. Our mission is to help individuals lead healthier lives through accessible, reliable, and innovative healthcare solutions.</p>
+    <p><span class="important">Welcome to Eloheh's Products!</span> We are proud to offer a wide variety of healthcare products designed to promote wellness and preventive care. Our mission is to help individuals lead healthier lives through accessible, reliable, and innovative healthcare solutions.</p>
 
     <h2><i>Product Categories:</i></h2>
 
@@ -49,11 +48,11 @@
         <li>Eloheh Immune Boost Capsules</li>
         <li>Smart Health Band with Heart Rate Monitoring</li>
         <li>Eco-Friendly Skin Care Bundle</li>
-        <li>Portable Digital Thermometer Pro</li>
+        <li>Portable Digital Thermometer</li>
     </ol>
 
     <h2>Product Image</h2>
-    <img src="https://via.placeholder.com/400x200.png?text=Eloheh+Healthcare+Products" alt="Eloheh Product Display" width="400">
+    <img src="[https://via.placeholder.com/400x200.png?text=Eloheh+Healthcare+Products](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.walmart.com%2Fip%2FNutraChamps-Immune-Boost-Support-Supplement-Elderberry-Extract-Vitamin-C-Zinc-Echinacea-Mushrooms-Probiotics-Powerful-Multi-System-Defense-Booster-Pi%2F798527217&psig=AOvVaw2pfY2Q3xs0oyGk_z_72_oM&ust=1750033583165000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjshuOV8o0DFQAAAAAdAAAAABAE)" alt="Eloheh Product Display" width="400">
 
     <h2>Downloadable Product Catalog</h2>
     <p>
@@ -63,9 +62,9 @@
     <h2>External Link</h2>
     <p>Check out <a href="https://www.mayoclinic.org/" target="_blank">Mayo Clinic</a> for trusted healthcare advice and resources.</p>
 
-    <h2>Contact the Page Developer</h2>
+    <h2>Contact the Team</h2>
     <p>
-        <a href="mailto:eloheh_products@fakeemail.com">Contact Me</a>
+        <a href="mailto:eloheh_products@fakeemail.com">Contact Us</a>
     </p>
 
     <hr>
