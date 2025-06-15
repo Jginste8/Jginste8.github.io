@@ -52,7 +52,7 @@
     </ol>
 
     <h2>Product Image</h2>
-    <img src="[https://via.placeholder.com/400x200.png?text=Eloheh+Healthcare+Products](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.walmart.com%2Fip%2FNutraChamps-Immune-Boost-Support-Supplement-Elderberry-Extract-Vitamin-C-Zinc-Echinacea-Mushrooms-Probiotics-Powerful-Multi-System-Defense-Booster-Pi%2F798527217&psig=AOvVaw2pfY2Q3xs0oyGk_z_72_oM&ust=1750033583165000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjshuOV8o0DFQAAAAAdAAAAABAE)" alt="Eloheh Product Display" width="400">
+    <img src="https://i5.walmartimages.com/seo/NutraChamps-Immune-Boost-Support-Supplement-Elderberry-Extract-Vitamin-C-Zinc-Echinacea-Mushrooms-Probiotics-Powerful-Multi-System-Defense-Booster-Pi_794f71de-8771-4ef0-9307-a8b48d1eb2ff.b71bcf7a859a1e3fa133630affc6d205.png?odnHeight=768&odnWidth=768&odnBg=FFFFFF" alt="Eloheh Product Display" width="400">
 
     <h2>Downloadable Product Catalog</h2>
     <p>
